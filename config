@@ -1,0 +1,19 @@
+author='Akash'
+dbname="Hello"
+tname="emp"
+filename="data.txt"
+primarykey_col=-1
+t="train.txt"
+thisdict={
+    
+};
+batch_size=20000
+deli=','
+
+datatype_dict={
+    1: "double",
+    2: "double",
+    3: "double",
+    4: "double",
+    5: "varchar(30)"
+    };
